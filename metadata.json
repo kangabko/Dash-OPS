@@ -1,0 +1,5 @@
+{
+  "name": "SyariOps Dashboard",
+  "description": "Operational control dashboard for Muslim Fashion Syari, monitoring Purchasing, Inbound QC, and Warehousing.",
+  "requestFramePermissions": []
+}
